@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<configuration>
+    <General>
+        <sdkApiUrl>http://72.251.239.140:8080/sdkapi/</sdkApiUrl>
+        <networkApiUrl>http://72.251.239.140:8080/networkapi</networkApiUrl>
+        <retrieveadsUrl>http://72.251.239.140:8080/retrieveads</retrieveadsUrl>
+    </General>
+    <Report>
+        <reportResultStr>true</reportResultStr>
+        <reportAll>true</reportAll>
+    </Report>    
+</configuration>
